@@ -1,8 +1,11 @@
 # Data-Science-Salaries
 
 Experience level: EN Entry-level / Junior,  MI Mid-level / Intermediate, SE Senior-level / Expert, EX Executive-level / Director
+
 Employement level: PT Part-time, FT Full-time, CT Contract, FL Freelance
+
 Remote Ratio: 0 No remote work (less than 20%), 50 Partially remote, 100 Fully remote (more than 80%)
+
 Company Size: S less than 50 employees (small), M 50 to 250 employees (medium), L more than 250 employees (large)
 
 Insights of Data Science Job Salaries:
